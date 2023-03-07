@@ -1,0 +1,19 @@
+{
+  "name": "dummy-project",
+  "version": "1.0.0",
+  "description": "It is a dummy project to test publishing npm with provenance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joycebrum/dummy-project.git"
+  },
+  "author": "Joyce Brum <joycebrum@google.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joycebrum/dummy-project/issues"
+  },
+  "homepage": "https://github.com/joycebrum/dummy-project#readme"
+}
