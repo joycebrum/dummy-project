@@ -1,6 +1,6 @@
 {
   "name": "joycebrum-dummy-project",
-  "version": "1.0.1",
+  "version": "v1.0.7",
   "description": "It is a dummy project to test publishing npm with provenance",
   "main": "index.js",
   "scripts": {
