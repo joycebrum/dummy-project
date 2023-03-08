@@ -21,8 +21,6 @@ jobs:
         node-version: 16
         registry-url: 'https://registry.npmjs.org'
         cache: npm
-    - name: Install dependencies and build
-      run: npm ci && npm run build
     - name: Publish package
       run: |
         npm install -g npm@latest
