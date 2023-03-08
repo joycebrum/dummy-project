@@ -1,6 +1,5 @@
 var main = function() {
-    alert("Hello World")
-    return "End"
+    console.log("Hello! It is just a dummy project with provenance");
 };
 
 module.exports = main;
